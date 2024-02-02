@@ -1,17 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c268afbc-a78a-47b2-a45d-09d0630ca046" name="Changes" comment="" />
+    <list default="true" id="c268afbc-a78a-47b2-a45d-09d0630ca046" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/introduction/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/introduction/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section01/CollectionsFrameworkIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section01/CollectionsFrameworkIntro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section01/CollectionsInterfaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section01/CollectionsInterfaces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section01/ImplementingClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section01/ImplementingClasses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section02/CommonListMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section02/CommonListMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section02/IntroToLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section02/IntroToLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section02/WhenToUseLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section02/WhenToUseLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section03/ArrayListAdvancedOps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section03/ArrayListAdvancedOps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section03/ArrayListCapacity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section03/ArrayListCapacity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section03/ArrayListIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section03/ArrayListIntro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section03/ArrayListResizing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section03/ArrayListResizing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section03/ArrayListThreadSafety.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section03/ArrayListThreadSafety.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section04/LinkedListAdvancedOps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section04/LinkedListAdvancedOps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section04/LinkedListIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section04/LinkedListIntro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section04/LinkedListVsArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section04/LinkedListVsArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section05/PrintQueueLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section05/PrintQueueLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section05/StudentGradesArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section05/StudentGradesArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section06/CustomLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section06/CustomLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section06/ListBenchmark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section06/ListBenchmark.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2WL7qeDKnlUq6Z0F8ePUbDLJphy" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -20,11 +62,110 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArrayListResizing.executor": "Run",
+    "Application.CollectionsInterfaces.executor": "Run",
+    "Application.CommonListMethods.executor": "Run",
+    "Application.LinkedListAdvancedOps.executor": "Run",
+    "Application.LinkedListVsArrayList.executor": "Run",
+    "Application.PrintQueueLinkedList.executor": "Run",
+    "Application.StudentGradesArrayList.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "full.screen.before.presentation.mode": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/igorwaraxe/JAVA/JAVA/JavaSchool(MX)/Lectures/Lecture06/Lecture06",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.PrintQueueLinkedList">
+    <configuration name="ArrayListResizing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.coherentsolutions.section03.ArrayListResizing" />
+      <module name="Lecture06" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.coherentsolutions.section03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListAdvancedOps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.coherentsolutions.section04.LinkedListAdvancedOps" />
+      <module name="Lecture06" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.coherentsolutions.section04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListVsArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.coherentsolutions.section04.LinkedListVsArrayList" />
+      <module name="Lecture06" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.coherentsolutions.section04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintQueueLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.coherentsolutions.section05.PrintQueueLinkedList" />
+      <module name="Lecture06" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.coherentsolutions.section05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentGradesArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.coherentsolutions.section05.StudentGradesArrayList" />
+      <module name="Lecture06" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.coherentsolutions.section05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PrintQueueLinkedList" />
+        <item itemvalue="Application.StudentGradesArrayList" />
+        <item itemvalue="Application.LinkedListVsArrayList" />
+        <item itemvalue="Application.LinkedListAdvancedOps" />
+        <item itemvalue="Application.ArrayListResizing" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-f644763e9732-24582b8d" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -33,7 +174,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696500199696</updated>
+      <workItem from="1696500201579" duration="9155000" />
+      <workItem from="1706083372853" duration="45000" />
+      <workItem from="1706514907148" duration="4925000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
